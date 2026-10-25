@@ -1,1 +1,1 @@
-# git-exp
+# Git and GitHub Experiment
